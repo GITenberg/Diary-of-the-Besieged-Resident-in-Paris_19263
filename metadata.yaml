@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8568
     wikipedia: http://en.wikipedia.org/wiki/Henry_Labouchere
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19263#Diary-of-the-Besieged-Resident-in-Paris
 gutenberg_issued: '2006-09-13'
 gutenberg_type: Text
 identifiers:
