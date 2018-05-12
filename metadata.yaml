@@ -1,0 +1,28 @@
+_repo: Diary-of-the-Besieged-Resident-in-Paris_19263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Labouchere, Henry
+    birthdate: 1831
+    deathdate: 1912
+    gutenberg_agent_id: '8568'
+    url: http://www.gutenberg.org/2009/agents/8568
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Labouchere
+description: ''
+gutenberg_issued: '2006-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- Siege, 1870-1871 -- Personal narratives'
+- !lcc 'DC'
+- !lcsh 'Franco-Prussian War, 1870-1871'
+title: Diary of the Besieged Resident in Paris
+url: http://www.gutenberg.org/ebooks/19263
